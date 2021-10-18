@@ -1,10 +1,7 @@
 do or do not, there is no try - Yoda
 
 It alwasy seemss inposible until is's done - Nelson Mandela
-<<<<<<< HEAD
 
 Live long and prosper - Spock
 
 Happineess is a choice
-=======
->>>>>>> personal_quotes
